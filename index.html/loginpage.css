@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+
+
+}
+
+.icon{
+    width: 100%;
+    height: 40px;
+   margin: 40px 0px 20px 588px;
+   position: relative;
+   /* filter: drop-shadow(0px 0px 5px rgba(0,0,0,0.2)); */
+    /* justify-content: center; */
+} 
+.box1{
+    padding: 20px 26px;
+}
+
+.content{
+    
+    margin: 0 39%;
+    width: 348.67px;;
+    height:347.67px;
+    align-items: center;
+    box-shadow: 0px 0px 10px 0px rgba(105, 97, 97, 0.2);
+    border-radius: 10px;
+    position: relative;
+}
+
+.box-content h3{
+    
+    padding: 20px 0px 20px 10px;
+    font-size: 20px;
+    font-weight: 200px;
+}
+
+.box-content p{
+    
+    padding-left: 10px;
+    margin-top: 10px;
+    font: 14px arial, sans-serif;
+}
+
+
+#email{
+    width: 80%;
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 0.8px solid grey;
+    padding: 5px 11px;
+   
+}
+
+.btn{
+    width: 80%;
+    height: 25px;
+    margin: 10px 0px 0px 23px;
+    /* padding: 5px 11px; */
+    border-radius: 10px;
+    border: none;
+    background-color:orange;
+    color: rgb(36, 32, 32);
+    font-size: 12px;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    background-color: orange;
+    transition: 0.5s;
+    box-shadow: 0.5px 0.5px 1px 4px orange;
+
+}
+#link a{
+    font-size: 12px;
+    padding: 10px 0px 2px 10px;
+    text-decoration: none;
+}
+
+#link a:hover{
+    text-decoration: underline;
+    
+}
+
+.need{
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding: 10px 0px 2px 10px;
+ 
+}
+
+.need a{
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.need a:hover{
+    text-decoration: underline;
+    
+}
+.buy {
+    font-size: 12px;
+    padding: 10px 0px 2px 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.buy a{
+    font-size: 12px;
+   
+    text-decoration: none;
+}
+
+.buy a:hover{
+   text-decoration: underline;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(209, 200, 200);
+    margin: 50px 0px 0px 20px;
+}
+
+ .foot-panel{
+    background-color:white;
+    color: rgb(59, 51, 51);
+    height: 100px;
+    font-size: 0.8em;
+    text-align: center;
+    margin: 30px 0px 10px 7.5%;
+    
+ }
+
+ .pages{
+    display: flex;
+    justify-content: center;
+}
+
+#C{
+    padding: 0px 15px;
+    text-decoration: none;
+}
+
+#C:hover{
+   
+    text-decoration:underline;
+}
+
+.copyright{
+    padding: 20px 0px 0px 0px;
+}
